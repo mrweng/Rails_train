@@ -1,0 +1,1 @@
+## My training Rails project
